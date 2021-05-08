@@ -4,11 +4,10 @@
   "recommendations": [
     "editorconfig.editorconfig",
     "ms-azure-devops.azure-pipelines",
-    "ms-vscode.cpptools",
     "ms-dotnettools.csharp",
-    "ms-vscode.PowerShell",
+    "ms-vscode.powershell",
     "twxs.cmake",
-    "DavidAnson.vscode-markdownlint",
+    "davidanson.vscode-markdownlint",
     "vitaliymaz.vscode-svg-previewer"
   ]
 }
